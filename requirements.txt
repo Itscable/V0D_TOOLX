@@ -1,0 +1,4 @@
+colorama
+sockets
+phonenumbers
+requests
